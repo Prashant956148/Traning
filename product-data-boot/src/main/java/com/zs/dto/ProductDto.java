@@ -31,7 +31,7 @@ public class ProductDto {
 	public String getName() {
 		return name;
 	}
-
+//setting the name
 	public void setName(String name) {
 		this.name = name;
 	}
